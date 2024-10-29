@@ -16,10 +16,11 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://tenor.com/pt-BR/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647" width="350">
-</p>
   
 ##
- 
-  <a href="https://www.linkedin.com/in/felipe-santana1995/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p>
+  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="300" height="300" alt="Meu GIF">
+</p>
+
+
+<a href="https://www.linkedin.com/in/felipe-santana1995/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
