@@ -15,6 +15,10 @@
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring,azure,docker,mysql,bootstrap,html,css" />
   </a>
 </p>
+
+<p align="left">
+  <img src="https://tenor.com/pt-BR/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647" width="350">
+</p>
   
 ##
  
